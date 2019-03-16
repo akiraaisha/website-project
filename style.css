@@ -39,3 +39,7 @@ li a:hover {
 .nav-header-left {
 	float: left!important;
 }
+
+.item {
+	width: 100%;
+}

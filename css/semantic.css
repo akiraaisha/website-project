@@ -36490,8 +36490,8 @@ a.ui.nag {
 
 .ui.search {
   position: relative;
-  bottom: 70px;
-	right: 65px;
+  bottom: 70px!important;
+  right: 65px!important;
 }
 
 .ui.search > .prompt {
