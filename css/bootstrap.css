@@ -4313,6 +4313,7 @@ input[type="button"].btn-block {
   .navbar-expand-md > .container-fluid {
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
+
   }
   .navbar-expand-md .navbar-collapse {
     display: -ms-flexbox !important;
@@ -6215,6 +6216,7 @@ a.close.disabled {
 
 .carousel {
   position: relative;
+
 }
 
 .carousel.pointer-event {
@@ -6226,6 +6228,8 @@ a.close.disabled {
   position: relative;
   width: 100%;
   overflow: hidden;
+  height: 500px;
+	
 }
 
 .carousel-inner::after {
@@ -6245,6 +6249,7 @@ a.close.disabled {
   transition: -webkit-transform 0.6s ease-in-out;
   transition: transform 0.6s ease-in-out;
   transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
+
 }
 
 @media (prefers-reduced-motion: reduce) {

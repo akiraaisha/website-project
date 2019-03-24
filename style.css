@@ -43,3 +43,53 @@ li a:hover {
 .item {
 	width: 100%;
 }
+.centro-fitness-video {
+	height:300px;
+}
+
+.video-container {
+	padding: 20px 50px;
+	position:relative
+}
+
+.mid-content {
+	background-color: #F7F7F7;
+	margin-top: 10px;
+	padding-left: 4em;
+	padding-right: 4em;
+	display: flex;
+}
+
+.ads-placement-mid-right {
+	height:500px;
+	float:left;
+	padding-top: 20px;
+	position:relative;
+	left: 8em;
+	width: 450px;
+}
+
+
+.fb-page {
+	position:relative;
+	left: 60px;
+}
+
+.bottom-content {
+	margin: 1em;
+	padding: .2em;
+}
+
+.footer {
+	position: relative;
+    left: 0;
+    bottom: -20px;
+    width: 100%;
+    text-align: center;
+	display: inline-block;
+}
+
+.footer-hr {
+	position: relative;
+	top: 30px;
+}
