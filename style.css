@@ -72,8 +72,8 @@ li a:hover {
 
 .fb-page {
 	position:relative;
-	left: 180px;
-    top: 50px;
+	left: 100px;
+    top: 0;
 }
 
 .bottom-content {
@@ -101,4 +101,22 @@ li a:hover {
 	font-size: 12px;
 	position: relative;
 	bottom:8px;
+}
+
+
+
+.twitter-widget-0 {
+	position: relative; 
+	visibility: visible;
+	display: inline-block; 
+	width: 400px; 
+	height: 250px;
+	padding: 0px; 
+	border: none; 
+	max-width: 100%; 
+	min-width: 180px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	min-height: 200px;
+	left: 150px;
 }
