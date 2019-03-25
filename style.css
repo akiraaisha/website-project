@@ -72,12 +72,14 @@ li a:hover {
 
 .fb-page {
 	position:relative;
-	left: 60px;
+	left: 180px;
+    top: 50px;
 }
 
 .bottom-content {
 	margin: 1em;
 	padding: .2em;
+	display: inline-flex;
 }
 
 .footer {
@@ -92,4 +94,11 @@ li a:hover {
 .footer-hr {
 	position: relative;
 	top: 30px;
+}
+
+.video-info {
+	color:#ACACAC!important;
+	font-size: 12px;
+	position: relative;
+	bottom:8px;
 }
